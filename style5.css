@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+}
+
+h1{
+    background-color: cyan;
+}
+
+#pierwszy{
+    background-color: gray;
+}
+
+h3{
+    background-color: green;
+}
+
+#drugi{
+    background-color: fuchsia;
+}
+
+ol{
+    background-color: darkred;
+}
+
+#a{
+    color: chartreuse;
+}
+
+#b{
+    color: chocolate;
+}
+
+#c{
+    color: coral;
+}
+
+#d{
+    color: cornflowerblue;
+}
+
+#e{
+    color: cyan;
+}
