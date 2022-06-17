@@ -1,0 +1,41 @@
+section{
+    background-color: #f5f5dd;
+    width: 300px;
+    height: 600px;
+    }
+
+.kwadrat {
+    width: 100px;
+    height: 100px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pierwszy{
+    
+    background-color: rgba(0, 0,0, 1);
+    margin-bottom: 20px;
+}
+
+
+#drugi{
+    
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 20px;
+}
+
+#trzeci{
+    
+    background-color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 20px;
+}
+
+#czwarty{
+    
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 20px;
+}
+
+
+
+
